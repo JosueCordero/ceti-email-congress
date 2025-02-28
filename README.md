@@ -9,3 +9,8 @@ This project was developed to automate the email campaign for the **Centro de En
 - **JavaScript (Google Apps Script)**
 - **HTML & CSS**
 - **Google API**
+
+<div align="center">
+    <h3>HTML Email template example:</h3>
+    <img src="templete_example.png" alt="HTML Example">
+</div>  
